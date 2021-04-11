@@ -1,2 +1,17 @@
-<!--pages/dongtaicenter/dongtaicenter.wxml-->
-<text>pages/dongtaicenter/dongtaicenter.wxml</text>
+<view class="user_message">
+  <image class="user_icon" src="../../images/user_head.png"></image>
+  <view class="user_text">
+    <view class="user_name"><text>用户名</text></view>
+    <view class="user_time"><text>2021-04-11</text></view>
+  </view>
+</view>
+
+<view class="contents">
+  <view class="contents_text">
+    <text class="title">时空几何法开始发力吉萨hfghfgh收到两个快递大两房吉林省地方</text>
+    <text class="contents">是风口浪尖ask两地分居阿斯利康的飞机拉萨阿斯兰的看法加拉士大夫 按时灯笼裤飞机是拉地府阿三地方了吉拉斯的发盎司附近</text>
+  </view>
+  <view class="contents_img">
+    <image src="../../images/five.jpg"></image>
+  </view>
+</view>

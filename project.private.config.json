@@ -21,6 +21,12 @@
         {
           "name": "pages/index/index",
           "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/dongtaicenter/dongtaicenter",
+          "pathName": "pages/dongtaicenter/dongtaicenter",
           "scene": null
         }
       ]
