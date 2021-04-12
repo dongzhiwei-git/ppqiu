@@ -9,7 +9,6 @@
   align-items: center; */
   width: 100%;
   
-
 }
 
 .index_cakes{
@@ -63,12 +62,14 @@
 }
 
 .user_head{
-  width: 20%;
-  height: 100%;
-  padding: 20rpx;
+  height: 70rpx;
+  width: 70rpx;
+  margin: auto 25rpx;
   flex-direction: row;
   justify-content: start;
   align-items: center;
+  border-radius: 50%;
+  overflow:hidden;
 }
 .user_head image{
   /* width: 100%; */
